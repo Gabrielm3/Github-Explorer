@@ -11,3 +11,27 @@ Buscar Repositórios no github
 
  # [Github Explorer - Acesse Aqui](https://githubxplorer.herokuapp.com/) 
  
+ 
+<br>
+
+## Installation
+
+First of all, you may clone this repo 
+
+```
+  git clone https://github.com/Gabrielm3/Github-Explorer.git
+```
+
+Run the following scripts in order to execute the application in development mode 
+
+```
+  // Install the dependencies
+  yarn install
+  
+  // Start the application
+  // yarn start
+```
+
+## Feedback
+[file an issue](https://github.com/Gabrielm3/Github-Explorer/issues/new). Feature requests are always welcome.
+

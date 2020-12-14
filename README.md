@@ -1,6 +1,24 @@
 # Github-Explorer
-Buscar Repositórios no github
+Buscar Repositórios no github. 
 ------------
+
+
+## 📖 Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Feedback](#feedback)
+
+## Features
+
+A few of the things you can do with Github Explorer:
+
+* Explore for github repositories and add them to your list
+* View the list of issues of a repository
+* View the list of forks of a repository
+* View the list of stargazers of a repository
+* A nice dark theme - COMING SOON
+
 <p align="center">
   <img src="https://i.ibb.co/qYx0w4T/image.png" alt="image" border="0" width=700>
 </p>

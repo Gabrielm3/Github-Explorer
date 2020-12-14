@@ -1,6 +1,7 @@
 <h1 align="center">Github Explorer</h1>
 
-<span align="center">Explore amazing Github Repositories. Built with ReactJS and Styled Components.</span>
+
+<p align="center"> Explore amazing Github Repositories. Built with ReactJS and Styled Components.🚀 </p>
 
 
 ## 📖 Table of Contents

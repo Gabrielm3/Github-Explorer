@@ -28,7 +28,7 @@ A few of the things you can do with Github Explorer:
   <img src="https://i.ibb.co/xHXSszB/image.png" alt="image" border="0" width=700>
 </p>
 
- # [Github Explorer - Acesse Aqui](https://githubxplorer.herokuapp.com/) 
+ # [Github Explorer on Deploy](https://githubxplorer.herokuapp.com/) 
  
  
 <br>

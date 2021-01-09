@@ -53,3 +53,5 @@ Run the following scripts in order to execute the application in development mod
 
 ## Feedback
 [file an issue](https://github.com/Gabrielm3/Github-Explorer/issues/new). Feature requests are always welcome.
+
+

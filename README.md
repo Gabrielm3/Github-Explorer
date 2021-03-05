@@ -30,7 +30,7 @@ A few of the things you can do with Github Explorer:
 
  # [Github Explorer on Deploy](https://githubxplorer.herokuapp.com/) 
  
- 
+
 <br>
 
 ## Installation
@@ -53,5 +53,3 @@ Run the following scripts in order to execute the application in development mod
 
 ## Feedback
 [file an issue](https://github.com/Gabrielm3/Github-Explorer/issues/new). Feature requests are always welcome.
-
-
